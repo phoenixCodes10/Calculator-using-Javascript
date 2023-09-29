@@ -1,0 +1,177 @@
+#calc_box {
+    border-color: white;
+    border: 8px;
+    background-color: #0e0e0e;
+    border-style: solid;
+    padding-bottom: 570px;
+    margin-left: 286px;
+    margin-right: 302px;
+    height: 34px;
+    cursor: pointer;
+    width: fit-content;
+    padding-right: 22px;
+}
+body{
+    background-color: #202020;
+}
+#display{
+    border-color: white;
+    border: 8px;
+    background-color: #a7af7c;
+    padding: 15px 1px 71px 0px;
+    margin-left: 19px;
+    margin-top: 12px;
+    border-radius: 11px;
+    width: 604px;
+    cursor: pointer;
+    height:3px
+}
+#clear_btn{
+    height: 57px;
+    background: #d90d0d;
+    width: 158px;
+    margin-left: 23px;
+    border-radius: 6px;
+    margin-top: 62px;
+    cursor: pointer;
+}
+#div_btn{
+    margin-left: 222px;
+    margin-top: -73px;
+    width: 74px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#mul_btn{
+    margin-left: 338px;
+    margin-top: -73px;
+    width: 74px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#neg_btn{
+    margin-left: 450px;
+    margin-top: -73px;
+    width: 74px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#zero_btn{
+    margin-left: 556px;
+    margin-top: -73px;
+    width: 74px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#nine_btn{
+    margin-left: 23px;
+    margin-top: 34px;
+    width: 160px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#eight_btn{
+    margin-left: 254px;
+    margin-top: -74px;
+    width: 160px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#seven_btn{
+    margin-left: 472px;
+    margin-top: -74px;
+    width: 160px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#six_btn{
+    margin-left: 23px;
+    margin-top: 33px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#five_btn{
+    margin-left: 284px;
+    margin-top: -74px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#add_btn{
+    margin-left: 539px;
+    margin-top: -74px;
+    width: 88px;
+    height: 156px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#four_btn{
+    margin-left: 23px;
+    margin-top: -72px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#three_btn{
+    margin-left: 284px;
+    margin-top: -74px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#two_btn{
+    margin-left: 23px;
+    margin-top: 37px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#one_btn{
+    margin-left: 284px;
+    margin-top: -74px;
+    width: 209px;
+    height: 57px;
+    background: #464646;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#equals_btn{
+    margin-left: 540px;
+    margin-top: -73px;
+    width: 90px;
+    height: 57px;
+    background: #50a4e7;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#displayItem{
+    font-size: 18px;
+    margin-left: 6px;
+    margin-top: 47px
+}
